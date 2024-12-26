@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coraje</string>
+    <string name="coraje_inicial">Coraje 1</string>
+    <string name="coraje_inicial_descripcion">Coraje face inicial </string>
+
+    <string name="coraje_medio">Coraje 2</string>
+    <string name="coraje_medio_descripcion">Coraje face medio </string>
+
+    <string name="coraje_semi_final">Coraje 3</string>
+    <string name="coraje_semi_final_descripcion">Coraje face semi final </string>
+
+    <string name="coraje_final">Coraje 4</string>
+    <string name="coraje_final_descripcion">Coraje face final </string>
+</resources>
